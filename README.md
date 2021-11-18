@@ -1,4 +1,4 @@
-![](assets/banner.png)
+![](assets/banner1500.png)
 
 ## Hi there, i'm a programmer (python slave) and music producer.
 
