@@ -1,4 +1,4 @@
-[![Header](https://github.com/NikkDusky/NikkDusky/blob/main/assets/banner.png)](https://github.com/nikkdusky)
+[![Header](assets/banner.png)](https://github.com/nikkdusky)
 
 ## Hi there, i'm a programmer (python slave) and music producer.
 
