@@ -1,8 +1,8 @@
 ![](assets/banner1500.png)
 
-## Hi there, i'm a programmer (python slave) and music producer./
+## Hi there, i'm a programmer (python slave) and music producer.
 
-Now, i learn nodejs & electronjs
+Now, i learn nodejs & electronjs. Work in progress.
 
 ### Languages
 
