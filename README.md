@@ -2,7 +2,7 @@
 
 ## Hi there, i'm a programmer (python slave) and music producer.
 
-Now, i learn nodejs & electronjs. Work in progress.
+Now, deep in to the python!
 
 ### Languages
 
